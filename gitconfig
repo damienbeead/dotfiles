@@ -1,6 +1,6 @@
 [user]
-    name = Yohan Boutin
-    email = yohan.boutin@ebuzzing.com
+    name = Damien Marsile
+    email = damien.marsile@ebuzzing.com
 [alias]
     c = commit -m
     ca = commit -am
